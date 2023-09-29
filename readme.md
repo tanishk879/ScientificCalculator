@@ -1,4 +1,3 @@
-Scientific Calculator
 This is a simple Java Swing-based scientific calculator. It provides basic arithmetic operations as well as some scientific functions like square root, trigonometric functions, exponentiation, and factorial calculation.
 
 Features
